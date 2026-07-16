@@ -18,7 +18,7 @@ Building intelligent software with Python, Machine Learning, Deep Learning, and 
 
 # 🌐 Live Portfolio
 
-### 🔗 https://fragile-green-8utzxh0t.edgeone.dev/
+### 🔗 (https://clean-aqua-ocfmzaml.edgeone.dev/)
 
 Experience my interactive AI portfolio featuring:
 

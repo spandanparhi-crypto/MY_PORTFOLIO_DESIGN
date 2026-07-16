@@ -179,7 +179,7 @@ Balasore, Odisha, India
 
 ### Portfolio
 
-https://fragile-green-8utzxh0t.edgeone.dev/
+https://clean-aqua-ocfmzaml.edgeone.dev/
 
 ### GitHub
 
@@ -187,7 +187,7 @@ https://github.com/spandanparhi-crypto
 
 ### LinkedIn
 
-> Replace this with your actual LinkedIn profile URL (the link you shared is the LinkedIn Jobs page).
+>https://www.linkedin.com/in/spandan-parhi-852011414/
 
 ---
 
